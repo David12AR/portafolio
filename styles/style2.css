@@ -1,0 +1,26 @@
+body{
+    background-color:#FF5733;
+    color: #00FF00;
+    border-color: green;
+    
+}
+
+
+button{
+    background-color:rgb(255, 153, 0);
+    color:aquamarine
+}
+
+h1{
+    color:brown;
+}
+
+footer{
+    background-color:aliceblue;
+    color: red;
+}
+
+a{
+    color:aqua;
+}
+
