@@ -47,7 +47,7 @@ body{
     align-items: center;
     padding: 5% 15%;
     justify-content: space-between;
-    gap: 82px;
+    /*gap: 82px;*/
 }
 
 .presentacion__contenido{
@@ -55,7 +55,7 @@ body{
     display:flex;
     flex-direction: column;
     gap: 40px;
-    padding:10%;
+    /*padding:10%;*/
 }
 
 .presentacion__contenido__titulo{
@@ -80,9 +80,10 @@ body{
     gap: 32px;
 }
 
-.presentacion__enlaces__link:hover{
+/*.presentacion__enlaces__link:hover{
     padding: 4%;
-}
+    background-color: var(--color-hover);
+}*/
 
 .presentacion__enlaces__link{
     width: 50%;
